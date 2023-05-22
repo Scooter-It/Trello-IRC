@@ -1,4 +1,4 @@
 PyYAML==5.4
 Twisted==20.3.0
 py-trello==0.1.4
-requests==2.20.0
+requests==2.31.0
